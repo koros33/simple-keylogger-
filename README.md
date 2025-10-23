@@ -6,18 +6,13 @@
 
 ## Contributing
 
-This project is open for contributions that improve documentation, safety checks, or add defensive/detection demonstrations. See `CONTRIBUTING.md` for rules.
-
-
-# Contributing to Ethical Keylogger 
-
-Thank you for your interest in contributing! This repository is focused on education, safety, and ethics. Contributions that enhance clarity, safety, defensive demonstrations, testing, and documentation are welcome.
+This project is open for contributions that improve documentation, safety checks, or add defensive/attacking demonstrations. 
 
 ## Rules for contributions
 
-* You can add code that records or transmits other people's keystrokes or sensitive data.
+* 😉 Any addition and improvements are welcomed ethically dont paste code from somewhere though.
 * Any new code that touches input capture must include explicit consent prompts and must default to local-only behavior.
-* Defensive/detection content (e.g., how to detect keyloggers) is encouraged.
+* Defensive/Attacking content (e.g., how to detect/bypass defenders) is encouraged.
 * Add tests or a well-documented manual testing plan when adding features.
 * Include clear instructions and safety guidance in any PR touching code.
 
@@ -28,5 +23,6 @@ Thank you for your interest in contributing! This repository is focused on educa
 3. Run tests / linting if applicable.
 4. Open a PR with a clear description of the change and its safety implications.
 
+**Respect for  ethics is encouraged**
 
-
+**Responsible for anything**
